@@ -10,7 +10,7 @@
     .logo{display: flex;
     }
     .logo1{
-        background-image: url(Les_11/pictures/tooth.png);
+        background-image: url("https://3sspace.github.io/Les_11/pictures/tooth.png");
         height:80px;
         width: 80px;
         background-repeat: no-repeat;
