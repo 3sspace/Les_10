@@ -58,7 +58,7 @@
         display: flex;
     }
     .phone1 {
-        background-image: url(https://3sspace.github.io/Les_10/pictures/phone.png);
+        background-image: url("https://3sspace.github.io/Les_10/pictures/phone.png");
         background-repeat: no-repeat;
         height: 25px;
         width: 25px;
