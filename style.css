@@ -10,7 +10,7 @@
     .logo{display: flex;
     }
     .logo1{
-        background-image: url(/pictures/tooth.png);
+        background-image: url(Les_11/pictures/tooth.png);
         height:80px;
         width: 80px;
         background-repeat: no-repeat;
@@ -58,7 +58,7 @@
         display: flex;
     }
     .phone1 {
-        background-image: url(/pictures/phone.png);
+        background-image: url(Les_11/pictures/phone.png);
         background-repeat: no-repeat;
         height: 25px;
         width: 25px;
@@ -69,19 +69,19 @@
         grid-template-columns: 1fr 1fr 1fr;
     }
     .viber {
-        background-image: url(/pictures/viber.png);
+        background-image: url(Les_11/pictures/viber.png);
         background-repeat: no-repeat;
         height: 27px;
         width: 27px;
     }
     .tele {
-        background-image: url(/pictures/telegram.png);
+        background-image: url(Les_11/pictures/telegram.png);
         background-repeat: no-repeat;
         height: 27px;
         width: 27px;
     }
     .wats {
-        background-image: url(/pictures/whatsapp.png);
+        background-image: url(Les_11/pictures/whatsapp.png);
         background-repeat: no-repeat;
         height: 27px;
         width: 32px;
@@ -91,7 +91,7 @@
         font-weight: bolder;
     
     }
-    .inlogo{background-image: url(/pictures/instagram.png);
+    .inlogo{background-image: url(Les_11/pictures/instagram.png);
         background-repeat: no-repeat;
         height: 27px;
         width: 40px;
@@ -104,7 +104,7 @@
         column-gap: 7px;
     
     }
-    .mail {background-image: url(/pictures/email.png);
+    .mail {background-image: url(Les_11/pictures/email.png);
         background-repeat: no-repeat;
         height: 27px;
         width: 27px;
