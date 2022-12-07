@@ -69,19 +69,19 @@
         grid-template-columns: 1fr 1fr 1fr;
     }
     .viber {
-        background-image: url(Les_11/pictures/viber.png);
+        background-image: url("https://3sspace.github.io/Les_11/pictures/viber.png");
         background-repeat: no-repeat;
         height: 27px;
         width: 27px;
     }
     .tele {
-        background-image: url(Les_11/pictures/telegram.png);
+        background-image: url("https://3sspace.github.io/Les_11/pictures/telegram.png");
         background-repeat: no-repeat;
         height: 27px;
         width: 27px;
     }
     .wats {
-        background-image: url(Les_11/pictures/whatsapp.png);
+        background-image: url("https://3sspace.github.io/Les_11/pictures/whatsapp.png");
         background-repeat: no-repeat;
         height: 27px;
         width: 32px;
@@ -91,7 +91,7 @@
         font-weight: bolder;
     
     }
-    .inlogo{background-image: url(Les_11/pictures/instagram.png);
+    .inlogo{background-image: url("https://3sspace.github.io/Les_11/pictures/instagram.png");
         background-repeat: no-repeat;
         height: 27px;
         width: 40px;
@@ -104,7 +104,7 @@
         column-gap: 7px;
     
     }
-    .mail {background-image: url(Les_11/pictures/email.png);
+    .mail {background-image: url("https://3sspace.github.io/Les_11/pictures/email.png");
         background-repeat: no-repeat;
         height: 27px;
         width: 27px;
